@@ -1,4 +1,4 @@
-A surgically precise, concept driven playbook tracking the mechanical execution, theoretical root causes, and tactical orchestration of primary offensive tools compiled from TryHackMe pathways.
+A surgically precise, concept driven playbook tracking the mechanical execution, theoretical root causes, and tactical orchestration of primary offensive tools
 
 ---
 
